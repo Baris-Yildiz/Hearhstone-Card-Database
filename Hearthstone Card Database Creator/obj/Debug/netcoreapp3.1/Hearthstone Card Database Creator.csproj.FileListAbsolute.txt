@@ -1,0 +1,14 @@
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\bin\Debug\netcoreapp3.1\Hearthstone Card Database Creator.exe
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\bin\Debug\netcoreapp3.1\Hearthstone Card Database Creator.deps.json
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\bin\Debug\netcoreapp3.1\Hearthstone Card Database Creator.runtimeconfig.json
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\bin\Debug\netcoreapp3.1\Hearthstone Card Database Creator.runtimeconfig.dev.json
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\bin\Debug\netcoreapp3.1\Hearthstone Card Database Creator.dll
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\bin\Debug\netcoreapp3.1\Hearthstone Card Database Creator.pdb
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\obj\Debug\netcoreapp3.1\Hearthstone Card Database Creator.csproj.AssemblyReference.cache
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\obj\Debug\netcoreapp3.1\Hearthstone Card Database Creator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\obj\Debug\netcoreapp3.1\Hearthstone Card Database Creator.AssemblyInfoInputs.cache
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\obj\Debug\netcoreapp3.1\Hearthstone Card Database Creator.AssemblyInfo.cs
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\obj\Debug\netcoreapp3.1\Hearthstone Card Database Creator.csproj.CoreCompileInputs.cache
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\obj\Debug\netcoreapp3.1\Hearthstone Card Database Creator.dll
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\obj\Debug\netcoreapp3.1\Hearthstone Card Database Creator.pdb
+C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\obj\Debug\netcoreapp3.1\Hearthstone Card Database Creator.genruntimeconfig.cache
