@@ -20,9 +20,9 @@ namespace Hearthstone_Card_Database_Creator
             string[] CardInformationList = new string[] { };
             string[] CardProperties = new string[] { };
             Dictionary<string, string> dict = new Dictionary<string, string>();
-            if (File.Exists(@"C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\bin\Debug\netcoreapp3.1\CardsNew.txt"))
+            if (File.Exists(@"\bin\Debug\netcoreapp3.1\CardsNew.txt"))
             {
-                string jsonFile = File.ReadAllText(@"C:\Users\BARIS\Documents\Coding Projects\SQL\Hearthstone API\Hearthstone Card Database Creator\bin\Debug\netcoreapp3.1\CardsNew.txt");
+                string jsonFile = File.ReadAllText(@"\bin\Debug\netcoreapp3.1\CardsNew.txt");
                 CardInformationList = jsonFile.Split("},");
             }
 
